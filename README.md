@@ -4,6 +4,8 @@
 A simple task management application that allows the user to add tasks at each hour of a workday.
 ## Made With
 * Javascript
+  * Jquery
+  * Moment.js 
 * HTML
 * CSS
 ## https://nmisustin.github.io/work-day-scheduler/
