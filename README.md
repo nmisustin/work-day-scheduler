@@ -6,6 +6,6 @@ A simple task management application that allows the user to add tasks at each h
 * Javascript
 * HTML
 * CSS
-## 
+## https://nmisustin.github.io/work-day-scheduler/
 ## Contributions
 Made by Nicolette Misustin
